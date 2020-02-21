@@ -1,0 +1,637 @@
+Issue-link, Issue-Title
+https://github.com/TNG/ArchUnit,/TNG/ArchUnit/issues/182,Allow `@AnalyzeClasses` to be used as a meta annotation,Architecture
+https://github.com/moditect/deptective,/moditect/deptective/issues/37,Colorizes nodes of dependency visualization based on number of ingoing references,Architecture
+https://github.com/joel-costigliola/assertj-core,/joel-costigliola/assertj-core/issues/1355,Describe actual Throwables when ThrowableAssert fails,Assertions
+https://github.com/joel-costigliola/assertj-core,/joel-costigliola/assertj-core/issues/1248,Converting your JUnit assertions to AssertJ fails in some cases,Assertions
+https://github.com/joel-costigliola/assertj-core,/joel-costigliola/assertj-core/issues/778,Use mutation testing (Pitest) for the AssertJ tests,Assertions
+https://github.com/google/truth,/google/truth/issues/634,IterableSubject constructor documentation for check method,Assertions
+https://github.com/google/truth,/google/truth/issues/528,Update documentation for gradle,Assertions
+https://github.com/google/truth,/google/truth/issues/594,Truth inorder not fully documented,Assertions
+https://github.com/google/truth,/google/truth/issues/602,JavaDoc links to developers.google.com,Assertions
+https://github.com/google/truth,/google/truth/issues/543,Make Expect throw ComparisonFailure when possible,Assertions
+https://github.com/google/truth,/google/truth/issues/485,Where is the documentation? ,Assertions
+https://github.com/google/truth,/google/truth/issues/334,Add new assertions to PathSubject,Assertions
+https://github.com/google/truth,/google/truth/issues/268,"Document that isEqualTo is not for testing equals(), etc.",Assertions
+https://github.com/google/truth,/google/truth/issues/211,Decide and document how inOrder() works with Multimap,Assertions
+https://github.com/google/truth,/google/truth/issues/208,Expand and externalize our docs on writing your own Subject,Assertions
+https://github.com/hamcrest/JavaHamcrest,/hamcrest/JavaHamcrest/issues/191,Migrate Tutorial to GitHub wiki,Assertions
+https://github.com/RepreZen/KaiZen-OpenApi-Parser,/RepreZen/KaiZen-OpenApi-Parser/issues/236,Getting Started Example does not fail on the callback-example,API
+https://github.com/RepreZen/KaiZen-OpenApi-Parser,/RepreZen/KaiZen-OpenApi-Parser/issues/99,"Document JSON-Overlay framework, consider extracting to separate project",API
+https://github.com/intuit/karate,/intuit/karate/issues/951,Doc strings result in request loop,API Testing
+https://github.com/intuit/karate,/intuit/karate/issues/1003,[0.9.5.RC5] Log not appearing in HTML report for dynamic scenario outline,API Testing
+https://github.com/intuit/karate,/intuit/karate/issues/827,improve and unify cli execution,API Testing
+https://github.com/intuit/karate,/intuit/karate/issues/879,Add the ability to set resources in the Builder,API Testing
+https://github.com/rest-assured/rest-assured,/rest-assured/rest-assured/issues/1145,Wiki Encoder config samples are wrong,API Testing
+https://github.com/rest-assured/rest-assured,/rest-assured/rest-assured/issues/1134,Broken URL in docs,API Testing
+https://github.com/rest-assured/rest-assured,/rest-assured/rest-assured/issues/1050,Access denied for docs,API Testing
+https://github.com/rest-assured/rest-assured,/rest-assured/rest-assured/issues/1097,idiomatic example needed POST with form fields URL encoded ,API Testing
+https://github.com/rest-assured/rest-assured,/rest-assured/rest-assured/issues/842,Integrate swagger with RestAssured,API Testing
+https://github.com/rest-assured/rest-assured,/rest-assured/rest-assured/issues/609,Create alias for 'when' so that no escaping is required in Kotlin,API Testing
+https://github.com/rest-assured/rest-assured,/rest-assured/rest-assured/issues/487,Add ability to pretty print RequestSpecification,API Testing
+https://github.com/aws/aws-sdk-java,/aws/aws-sdk-java/issues/2134,Mention SdkClientException in AWSCredentialsProvider Code or Docs.,AWS
+https://github.com/aws/aws-sdk-java,/aws/aws-sdk-java/issues/2136,"Support for EKS 'IAM for service accounts'  not default [1.11.623, 1.11.653]",AWS
+https://github.com/aws/aws-sdk-java,/aws/aws-sdk-java/issues/2003,Enable Additional Machine JVM Metrics in aws-java-sdk-cloudwatchmetrics,AWS
+https://github.com/aws/aws-sdk-java,/aws/aws-sdk-java/issues/1378, randomSeed dataRearrangement documentation contains invalid json,AWS
+https://github.com/aws/aws-sdk-java,/aws/aws-sdk-java/issues/1433,Feature Request: EC2 Resource Serialization for Cloud Formation Template,AWS
+https://github.com/aws/aws-sdk-java,/aws/aws-sdk-java/issues/1303,Replace S3 downloadInParallel by using Content-Range requests instead of undocumented S3 part requests,AWS
+https://github.com/aws/aws-sdk-java,/aws/aws-sdk-java/issues/803,aws-cli role assumption profiles are incompatible with SDK,AWS
+https://github.com/cucumber/cucumber-jvm,/cucumber/cucumber-jvm/issues/1717,Document available properties,BDD
+https://github.com/cucumber/cucumber-jvm,/cucumber/cucumber-jvm/issues/1470,Use TestContextManager in cucumber-spring,BDD
+https://github.com/cucumber/cucumber-jvm,/cucumber/cucumber-jvm/issues/1810,Add JavaDoc to all @API annotated classes,BDD
+https://github.com/spockframework/spock,/spockframework/spock/issues/1002,Housekeeping updating the @Issue references,BDD
+https://github.com/spockframework/spock,/spockframework/spock/issues/1059,Documentation for Hamcrest support,BDD
+https://github.com/spockframework/spock,/spockframework/spock/issues/1057,Documentation for DetachedMockFactory,BDD
+https://github.com/spockframework/spock,/spockframework/spock/issues/1058,Documentation for spock.util.concurrent classes,BDD
+https://github.com/spockframework/spock,/spockframework/spock/issues/1037,Dead cross-page links in all_in_one documentation,BDD
+https://github.com/spockframework/spock,/spockframework/spock/issues/1018,Wrong JavaDoc with invalid syntax,BDD
+https://github.com/spockframework/spock,/spockframework/spock/issues/855,"Spock Soft Assertions ( verifyall() ) does not work with Power Asserts, AssertThat from AssertJ, etc",BDD
+https://github.com/spockframework/spock,/spockframework/spock/issues/899,Spock modules should depend on the minimum amount of Groovy 2.5,BDD
+https://github.com/spockframework/spock,/spockframework/spock/issues/830,Improve documentation concerning callRealMethod(),BDD
+https://github.com/spockframework/spock,/spockframework/spock/issues/591,Mocking: Variables of Closure type aren't evaluated as code args,BDD
+https://github.com/spockframework/spock,/spockframework/spock/issues/612,Documentation needs an index page for the different versions of the documentation,BDD
+https://github.com/spockframework/spock,/spockframework/spock/issues/611,Add navigation to the reference documentation http://spockframework.github.io/spock/docs/1.0/index.html,BDD
+https://github.com/spockframework/spock,/spockframework/spock/issues/650,Provide a meaningful error message when trying to stub final method in Kotlin class,BDD
+https://github.com/spockframework/spock,/spockframework/spock/issues/382,"Support for biz language ""live doc"" and execution reports.",BDD
+https://github.com/spockframework/spock,/spockframework/spock/issues/275,Provide good error message if config file cannot be evaluated,BDD
+https://github.com/spockframework/spock,/spockframework/spock/issues/399,Improve spy error message when constructor args dont match,BDD
+https://github.com/spockframework/spock,/spockframework/spock/issues/327,Documention not proper for grails spock plugin,BDD
+https://github.com/spockframework/spock,/spockframework/spock/issues/498,Special case type constraint to just _ (underscore),BDD
+https://github.com/spockframework/spock,/spockframework/spock/issues/80,Clarification should be added for Interaction Based testing,BDD
+https://github.com/spockframework/spock,/spockframework/spock/issues/76,"Enable usage of Spring beans in @Shared fields, setupSpec() and cleanupSpec()",BDD
+https://github.com/rampatra/jbot,/rampatra/jbot/issues/109,Issuing slash commands?,Bots
+https://github.com/Ullink/simple-slack-api,/Itiviti/simple-slack-api/issues/77,Documentation improvement: Samples for event handlers,Bots
+https://github.com/rubenlagus/TelegramBots,/rubenlagus/TelegramBots/issues/610,Make AbilityBot more DI friendly,Bots
+https://github.com/rubenlagus/TelegramBots,/rubenlagus/TelegramBots/issues/516,Mistake in abilities bot Wiki setup section,Bots
+https://github.com/rubenlagus/TelegramBots,/rubenlagus/TelegramBots/issues/281,javadoc & sendMessage,Bots
+https://github.com/jacoco/jacoco,/jacoco/jacoco/issues/974,Improve report-aggregate documentation and behaviour,Code Coverage
+https://github.com/jacoco/jacoco,/jacoco/jacoco/issues/902,Run coverage check on aggregate-report,Code Coverage
+https://github.com/jacoco/jacoco,/jacoco/jacoco/issues/844,"""merge"" Goal should be bound to phase post-integration-test",Code Coverage
+https://github.com/jacoco/jacoco,/jacoco/jacoco/issues/823,Add more user properties for maven integration test support,Code Coverage
+https://github.com/jacoco/jacoco,/jacoco/jacoco/issues/446,"Add ""since"" Javadoc tags",Code Coverage
+https://github.com/jacoco/jacoco,/jacoco/jacoco/issues/533,Fix incorrect placement of probes in case of JSR and RET instructions,Code Coverage
+https://github.com/jacoco/jacoco,/jacoco/jacoco/issues/110,Style of JavaDoc is Broken,Code Coverage
+https://github.com/jacoco/jacoco,/jacoco/jacoco/issues/11,Documentation: Introduction to Code Coverage,Code Coverage
+https://github.com/jeremylong/DependencyCheck,/jeremylong/DependencyCheck/issues/2253,Add images of sample reports/outcomes of the tool to the readme,Code Security
+https://github.com/jeremylong/DependencyCheck,/jeremylong/DependencyCheck/issues/1940,Fix examples on https://jeremylong.github.io/DependencyCheck/general/suppression.html,Code Security
+https://github.com/jeremylong/DependencyCheck,/jeremylong/DependencyCheck/issues/1693,Document multi-module configuration with suppression file,Code Security
+https://github.com/jeremylong/DependencyCheck,/jeremylong/DependencyCheck/issues/896,[Python] Analyze standalone PKG-INFO,Code Security
+https://github.com/jeremylong/DependencyCheck,/jeremylong/DependencyCheck/issues/548,Request: Support Python's requirements.txt,Code Security
+https://github.com/google/error-prone,/google/error-prone/issues/1422,use javadoc.io for javadoc hosting?,Code Quality
+https://github.com/google/error-prone,/google/error-prone/issues/1410,False positive FunctionalInterfaceMethodChanged when signature changes,Code Quality
+https://github.com/google/error-prone,/google/error-prone/issues/1314,Update Effective Java item references,Code Quality
+https://github.com/google/error-prone,/google/error-prone/issues/1320,Refaster JavaDoc mentions non-existing class IsNonNullMatcher,Code Quality
+https://github.com/google/error-prone,/google/error-prone/issues/1289,Update XepDisableWarningsInGeneratedCode doc on flags page,Code Quality
+https://github.com/google/error-prone,/google/error-prone/issues/1293,Update Command-Line Instructions on https://errorprone.info,Code Quality
+https://github.com/google/error-prone,/google/error-prone/issues/982,MutableMethodReturnType documentation should mention that the warning may not apply to APIs.,Code Quality
+https://github.com/google/error-prone,/google/error-prone/issues/1053,RefasterRuleCompiler silently ignores compilation errors in refaster templates,Code Quality
+https://github.com/google/error-prone,/google/error-prone/issues/736,Document Windows specific refaster command line,Code Quality
+https://github.com/google/error-prone,/google/error-prone/issues/956,Exclude inner classes annotated with @Nested from ClassCanBeStatic rule,Code Quality
+https://github.com/google/error-prone,/google/error-prone/issues/976,Bug Patterns page does not make clear first version on which each check is present,Code Quality
+https://github.com/google/error-prone,/google/error-prone/issues/705,"Documentation: Var, question, request for update",Code Quality
+https://github.com/google/error-prone,/google/error-prone/issues/620,Document the bytecode output produced by Error Prone,Code Quality
+https://github.com/google/error-prone,/google/error-prone/issues/643,Check for known reusable types being implicitly wasted.,Code Quality
+https://github.com/google/error-prone,/google/error-prone/issues/556,Add some help from the command line,Code Quality
+https://github.com/google/error-prone,/google/error-prone/issues/565,Check slf4j log messages are constant,Code Quality
+https://github.com/google/error-prone,/google/error-prone/issues/517,Warn about catch blocks with a needlessly large scope,Code Quality
+https://github.com/google/error-prone,/google/error-prone/issues/488,Enable/disable patterns by category,Code Quality
+https://github.com/find-sec-bugs/find-sec-bugs,/find-sec-bugs/find-sec-bugs/issues/536,Detect hardcoded password for SSH private key,Code Quality
+https://github.com/find-sec-bugs/find-sec-bugs,/find-sec-bugs/find-sec-bugs/issues/514,Potential path traversal when using filename from Zip archive,Code Quality
+https://github.com/find-sec-bugs/find-sec-bugs,/find-sec-bugs/find-sec-bugs/issues/474,WebEngine / JSObject.setMember while embedding untrusted content,Code Quality
+https://github.com/find-sec-bugs/find-sec-bugs,/find-sec-bugs/find-sec-bugs/issues/426,SECRD ReDOS false negative with javax.validation.constraints.Pattern,Code Quality
+https://github.com/find-sec-bugs/find-sec-bugs,/find-sec-bugs/find-sec-bugs/issues/344,Avoid FP from Environment.getProperty (Path Traversal),Code Quality
+https://github.com/find-sec-bugs/find-sec-bugs,/find-sec-bugs/find-sec-bugs/issues/335,SECRD ReDOS false-positve,Code Quality
+https://github.com/find-sec-bugs/find-sec-bugs,/find-sec-bugs/find-sec-bugs/issues/363,FP: XXE_DOCUMENT does not detect secure processing flag in static initializer,Code Quality
+https://github.com/find-sec-bugs/find-sec-bugs,/find-sec-bugs/find-sec-bugs/issues/198,Unexpected deserialization with RestEasy/Jersey,Code Quality
+https://github.com/find-sec-bugs/find-sec-bugs,/find-sec-bugs/find-sec-bugs/issues/269,Detect File Disclosure Injection with Spring's RequestMapping and prefixed redirect string,Code Quality
+https://github.com/find-sec-bugs/find-sec-bugs,/find-sec-bugs/find-sec-bugs/issues/143,Create a tutorials with demo projects for Gradle configuration,Code Quality
+https://github.com/spotbugs/spotbugs,/spotbugs/spotbugs/issues/798,New rule for checking runtime PatternSyntaxException in regex usages,Code Quality
+https://github.com/spotbugs/spotbugs,/spotbugs/spotbugs/issues/782,False positives and negatives of NP_NULL_ON_SOME_PATH_FROM_RETURN_VALUE,Code Quality
+https://github.com/spotbugs/spotbugs,/spotbugs/spotbugs/issues/1038,(Documentation) Miscellaneous documentation edits needed.,Code Quality
+https://github.com/spotbugs/spotbugs,/spotbugs/spotbugs/issues/704,New performance rule for Appendable appending CharSequence,Code Quality
+https://github.com/spotbugs/spotbugs,/spotbugs/spotbugs/issues/637,SimpleDateFormat string checks,Code Quality
+https://github.com/spotbugs/spotbugs,/spotbugs/spotbugs/issues/651,findbugs:NP_NULL_ON_SOME_PATH_FROM_RETURN_VALUE does not consider null validation,Code Quality
+https://github.com/spotbugs/spotbugs,/spotbugs/spotbugs/issues/1044,Documentation for Spotbugs - Technical tool analysis,Code Quality
+https://github.com/spotbugs/spotbugs,/spotbugs/spotbugs/issues/566,Rank matcher and its documentation do not match,Code Quality
+https://github.com/spotbugs/spotbugs,/spotbugs/spotbugs/issues/574,URF_UNREAD_FIELD: should be ignored on test class fields annotated with JUnit5's @RegisterExtension,Code Quality
+https://github.com/spotbugs/spotbugs,/spotbugs/spotbugs/issues/540,Document how to integrate FInd Security Bugs + FB-Contrib into Maven & Gradle plugins,Code Quality
+https://github.com/spotbugs/spotbugs,/spotbugs/spotbugs/issues/522,Supported annotations are not documented?,Code Quality
+https://github.com/spotbugs/spotbugs,/spotbugs/spotbugs/issues/511,Adhering to EQ_DOESNT_OVERRIDE_EQUALS requires violation of equals method contract,Code Quality
+https://github.com/spotbugs/spotbugs,/spotbugs/spotbugs/issues/993,Obsolete warning: ITA_INEFFICIENT_TO_ARRAY,Code Quality
+https://github.com/spotbugs/spotbugs,/spothttps://github.com/google/styleguide,/google/styleguide/issues/486,Java Style Guide - Camel case examples,Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/469,Intellij Java doc styling no longer works.,Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/412,Java: 4.1.2 example: Missing opening brace in else if,Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/391,JSON Style Guide top-level property 'data',Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/421,Autogenerate a table of contents in the Python style guide (pyguide),Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/406,C++ style guide:  rule for default case,Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/417,Inconsistent indentation suggestions for Python,Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/363,Follow the google HTML style guide in the style guide's HTML,Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/371,Add comment metadata API autogeneration rules to C++ Style Guide.,Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/364,The HTML style guide doesn't list what to do about language tagging,Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/355,C++ Style Guide: Incorrect information about rvalue references,Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/316,"I can't ""toggle summary"" on ""Google JSON Style Guide"" and ""Shell Style Guide""",Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/350,"Python ""yields"" should be specific about what type is returned",Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/303,Java Style Guide: Constants example (Joiner vs Logger),Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/326,Explain what a special prefix/suffix is,Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/310,Publish an official TypeScript style guide,Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/276,Rust style guide?,Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/277,cpplint README does not specify Python version,Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/262,Java style guide: state whether to indent blank lines or not,Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/259,Java Style Guide: Line wrap at ellipsis,Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/258,Java Style Guide: Line wrap at array declarator brackets,Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/248,Java: Conflicts between eclipse-java-google-style.xml and HTML guide,Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/226,Clearly articulate the rule for public methods parameter names in section 5.2.6 of Google Java Style Guide ,Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/215,Java Style Guide: single line javadoc with at-clauses,Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/207,Define the meaning of the term camel-case in the JSON Style Guide,Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/213,Java Style Guide: Microseconds Unicode,Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/197,"Suggest adding ""private static Function..."" to java constants examples",Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/201,Remove default list params in `cpplint.py`,Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/222,Swift Style Guide,Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/223,Migrate to Gitbooks?,Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/112,Document lambda formatting for Java 8,Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/66,Overly-strict description for single-line Javadoc at the Java Style Guide ,Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/1,Example Function 'CalculateSampleCovariance' in the R Style Guide mixes use and omission of curly braces for single-statement blocks.,Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/18,Missing a word in the `var` section of the JavaScript style guide,Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/24,Contradiction in C++ style guide about scoped_ptr,Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/41,Show Issues tab,Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/32,Fix a broken link in cppguide.html,Code Quality
+https://github.com/teamed/qulice,/teamed/qulice/issues/956,Incomplete documentation for developers,Code Quality
+https://github.com/teamed/qulice,/teamed/qulice/issues/945,Static imports should be allowed in unit tests,Code Quality
+https://github.com/teamed/qulice,/teamed/qulice/issues/875,improve IDE checkstyle setup documentation,Code Quality
+https://github.com/teamed/qulice,/teamed/qulice/issues/804,Improve PMD configuration,Code Quality
+https://github.com/teamed/qulice,/teamed/qulice/issues/774,Documentation for qulice-gradle-plugin,Code Quality
+https://github.com/teamed/qulice,/teamed/qulice/issues/770,"No ""Missing @Override"" message and ""Missing Javadoc"" is a poor message when @Override could also solve",Code Quality
+https://github.com/teamed/qulice,/teamed/qulice/issues/707,Prohibit add comment to the first line of the Javadoc,Code Quality
+https://github.com/teamed/qulice,/teamed/qulice/issues/523,Documentation does not mention how to exclude files from XML analysis,Code Quality
+https://github.com/teamed/qulice,/teamed/qulice/issues/795,Check for jcabi-log logger to disallow String.format,Code Quality
+https://github.com/teamed/qulice,/teamed/qulice/issues/708,Require newline between Javadoc contents and at-clauses,Code Quality
+https://github.com/teamed/qulice,/teamed/qulice/issues/736,Prohibit declaring throws javadoc tag if there is no throws in signature,Code Quality
+https://github.com/teamed/qulice,/teamed/qulice/issues/525,No documentation for PomXpathValidator,Code Quality
+https://github.com/teamed/qulice,/teamed/qulice/issues/705,Type parameter descriptions should start with uppercase letter,Code Quality
+https://github.com/teamed/qulice,/teamed/qulice/issues/554,Not meaningful violations when annotation is placed above Javadoc,Code Quality
+https://github.com/teamed/qulice,/teamed/qulice/issues/684,Exclude all unnecessary files from dogfood check and reduce number of builds,Code Quality
+https://github.com/teamed/qulice,/teamed/qulice/issues/688,Prohibit two empty lines in Javadoc,Code Quality
+https://github.com/teamed/qulice,/teamed/qulice/issues/546,Website does not mention all custom Checkstyle checks,Code Quality
+https://github.com/teamed/qulice,/teamed/qulice/issues/631,PMD and Checkstyle unit tests should be isolated,Code Quality
+https://github.com/teamed/qulice,/teamed/qulice/issues/662,Check that second word in Javadoc for test is 'can',Code Quality
+https://github.com/teamed/qulice,/teamed/qulice/issues/657,UnnecessaryLocalRule has no test coverage,Code Quality
+https://github.com/teamed/qulice,/teamed/qulice/issues/630,Add more flexibility to isolated unit tests,Code Quality
+https://github.com/teamed/qulice,/teamed/qulice/issues/382,pom.xml <sourceDirectory> not respected?,Code Quality
+https://github.com/GoogleContainerTools/jib,/GoogleContainerTools/jib/issues/2130,Consider making `DockerClient` an interface,Containers
+https://github.com/GoogleContainerTools/jib,/GoogleContainerTools/jib/issues/2135,Maven settings.xml auth matching,Containers
+https://github.com/GoogleContainerTools/jib,/GoogleContainerTools/jib/issues/1487,jib-maven-plugin is hardcoding the webappDirectory path for war plugins,Containers
+https://github.com/GoogleContainerTools/jib,/GoogleContainerTools/jib/issues/1435,Guava Beta-Checker to error prone checks,Containers
+https://github.com/GoogleContainerTools/jib,/GoogleContainerTools/jib/issues/1122,Consider providing JibExtension setters as methods.,Containers
+https://github.com/GoogleContainerTools/jib,/GoogleContainerTools/jib/issues/2150,Unify test resources,Containers
+https://github.com/GoogleContainerTools/jib,/GoogleContainerTools/jib/issues/2175,Set up Error Prone check to prevent use of native Gradle and Maven loggers,Containers
+https://github.com/GoogleContainerTools/jib,/GoogleContainerTools/jib/issues/1458,Add integration tests for using Jib with other JVM languages,Containers
+https://github.com/GoogleContainerTools/jib,/GoogleContainerTools/jib/issues/1618,Specify the path to the docker config file,Containers
+https://github.com/GoogleContainerTools/jib,/GoogleContainerTools/jib/issues/1494,Support script plugins in files task,Containers
+https://github.com/GoogleContainerTools/jib,/GoogleContainerTools/jib/issues/1567,Support referencing base images from a manifest list,Containers
+https://github.com/GoogleContainerTools/jib,/GoogleContainerTools/jib/issues/694,Use Gradle `changing` to determine snapshots,Containers
+https://github.com/GoogleContainerTools/jib,/GoogleContainerTools/jib/issues/1099,Automated cleanup of images built by integration tests in our GCP project,Containers
+https://github.com/GoogleContainerTools/jib,/GoogleContainerTools/jib/issues/19,ErrorEntryTemplate should include detail field as well.,Containers
+https://github.com/DiUS/pact-jvm,/DiUS/pact-jvm/issues/994,Create can-i-deploy maven plugin,Contracts
+https://github.com/DiUS/pact-jvm,/DiUS/pact-jvm/issues/940,Outdated docs,Contracts
+https://github.com/DiUS/pact-jvm,/DiUS/pact-jvm/issues/886,PACT documentation is not available,Contracts
+https://github.com/DiUS/pact-jvm,/DiUS/pact-jvm/issues/737,Support for @PactBroker etc. as Meta-Annotations in Spring,Contracts
+https://github.com/DiUS/pact-jvm,/DiUS/pact-jvm/issues/753,Pact broker specification has to be added twice if consumer and provider are specified in the same plugin configuration in pom.xml,Contracts
+https://github.com/DiUS/pact-jvm,/DiUS/pact-jvm/issues/691,interaction missing in generated json file,Contracts
+https://github.com/DiUS/pact-jvm,/DiUS/pact-jvm/issues/590,pactPublish: Unable to tag each pact file separately before publishing to pact-broker,Contracts
+https://github.com/DiUS/pact-jvm,/DiUS/pact-jvm/issues/384,Document usage of state in `@PactVerification`,Contracts
+https://github.com/DiUS/pact-jvm,/DiUS/pact-jvm/issues/243,XML body matching,Contracts
+https://github.com/DiUS/pact-jvm,/DiUS/pact-jvm/issues/434,Provide option to run provider tests against ALL consumer versions.,Contracts
+https://github.com/remkop/picocli,/remkop/picocli/issues/890,Manual/Quick guide: better support for first time users,CLI
+https://github.com/remkop/picocli,/remkop/picocli/issues/812,Document how to test a picocli spring-boot application,CLI
+https://github.com/remkop/picocli,/remkop/picocli/issues/894,Create simple test framework for testing JVM and native CLI apps,CLI
+https://github.com/remkop/picocli,/remkop/picocli/issues/774,Allow long options to be left-aligned in usage help,CLI
+https://github.com/remkop/picocli,/remkop/picocli/issues/714,Generate javadoc for picocli.jar with java 9+,CLI
+https://github.com/remkop/picocli,/remkop/picocli/issues/749,Invoke IDefaultProvider only if needed,CLI
+https://github.com/remkop/picocli,/remkop/picocli/issues/299,Generate MarkDown or AsciiDoc documentation,CLI
+https://github.com/cbeust/jcommander,/cbeust/jcommander/issues/480,"Commands with no description have the string ""null"" printed as their description when calling usage()",CLI
+https://github.com/cbeust/jcommander,/cbeust/jcommander/issues/461,Can't handle main argument that is a String as stated in the documentation,CLI
+https://github.com/cbeust/jcommander,/cbeust/jcommander/issues/442,Remove calls to java.lang.Class#newInstance(),CLI
+https://github.com/cbeust/jcommander,/cbeust/jcommander/issues/330,Documentation of @ syntax incomplete,CLI
+https://github.com/cbeust/jcommander,/cbeust/jcommander/issues/338,"Usage text needs explanation for ""*""",CLI
+https://github.com/cbeust/jcommander,/cbeust/jcommander/issues/349,Better Error Message When Using Multiple Commands,CLI
+https://github.com/lightbend/config,/lightbend/config/issues/650,Clarification on readme.md,Configuration and Properties
+https://github.com/lightbend/config,/lightbend/config/issues/622,Unnecessary repetition in an error message,Configuration and Properties
+https://github.com/lightbend/config,/lightbend/config/issues/565,Move documentation to Paradox,Configuration and Properties
+https://github.com/lightbend/config,/lightbend/config/issues/491,Expose comments on ConfigValues,Configuration and Properties
+https://github.com/lightbend/config,/lightbend/config/issues/380,Clear config list value from the command line,Configuration and Properties
+https://github.com/lightbend/config,/lightbend/config/issues/372,Add the absolute URL of resource.conf when it's loaded from the classpath,Configuration and Properties
+https://github.com/lightbend/config,/lightbend/config/issues/342,Note about order of `reference.conf` resources loading during initialization of Config.,Configuration and Properties
+https://github.com/lviggiano/owner,/lviggiano/owner/issues/229,Documentation inconsistency about cyphering,Configuration and Properties
+https://github.com/lviggiano/owner,/lviggiano/owner/issues/116,Add relaxed binding like Spring Boot offers,Configuration and Properties
+https://github.com/database-rider/database-rider,/database-rider/database-rider/issues/87,Adds Scriptable dataset docs to readme,Database
+https://github.com/jdbi/jdbi,/jdbi/jdbi/issues/1436,Document how to create custom qualifying annotations in developer guide,Database
+https://github.com/jdbi/jdbi,/jdbi/jdbi/issues/1023,Docs / Example: Provide example (repo) to show how to integrate jdbi3 in spring-boot,Database
+https://github.com/jdbi/jdbi,/jdbi/jdbi/issues/993,Improve documentation for SQL Arrays,Database
+https://github.com/jdbi/jdbi,/jdbi/jdbi/issues/1030,Factor out developer guide into separate files by section,Database
+https://github.com/jdbi/jdbi,/jdbi/jdbi/issues/1009,Documentation for OracleReturning class still uses 1-based index but class uses zero-base,Database
+https://github.com/jdbi/jdbi,/jdbi/jdbi/issues/983,jdbi3-spring4 plugin needs documentation / (rework?),Database
+https://github.com/jdbi/jdbi,/jdbi/jdbi/issues/897,BindBean behaves unexpectedly for property names that start with single letters or acronyms,Database
+https://github.com/jdbi/jdbi,/jdbi/jdbi/issues/813,Throw exception when attempting to configure generated keys after statement has been created,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/9003,type of 'create' object in docs not present,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/9647,Dead links to javax.validation,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/9376,Document <fluentSetters/> in the manual,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/9623,Update manual example about binding JSON types,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/9087,Document CallbackExecuteListener,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/9430,Document Spring's TransactionTemplate as an alternative,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/9637,Add an example Maven and Gradle project to the ZIP distribution,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/8997,Update jOOQ-spring-example and documentation,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/9605,Add a Settings to govern what object types DDL interpretation should interpret,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/9439,Pro annotation should generate Javadoc indicating that API is available to commercial distributions only,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/9077,"Add a Spring Boot example, which modifies the Settings for jOOQ",Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/9367,Create a SQL dialect version support manual page,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/9606,Add Settings for default DDLFlags to be applied for Meta.ddl() calls,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/9054,"Manual headers should offer a link to the ""latest"" version",Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/8663,Fix Javadoc links in manual,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/8973,Create a troubleshooting page in the manual,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/9002,Add maven instructions for kotlin projects,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/9527,Add synthetic CREATE SCHEMA new_schema LIKE other_schema syntax,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/9566,Plain SQL expressions should avoid wrapping themselves in parentheses if unnecessary,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/9039,Clarify which interfaces are immutable/mutable,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/9456,Table.field() methods should return TableField,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/9495,Select default capitalizations and styles based on dialect,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/9302,Add a bind variable form on the translator website,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/8554,Improve documentation regarding nullable forced types,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/9293,Fix translation of RENAME commands when we have DDL interpretation active,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/9518,Add support for synthetic ALTER TABLE .. DROP ALL [ UNIQUE | CHECK | FOREIGN KEY ] CONSTRAINTS command,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/8684,Improve manual section about inline bind values showing some examples in SQL as well,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/9383,DDL statements should maintain an up-to-date meta representation for better DDL emulations,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/9496,Improve formatting of CREATE TABLE,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/9537,Add support for the CockroachDB ORDER BY PRIMARY KEY <table_name> syntax,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/8702,Support Xerial's extension-functions.c for SQLite,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/8313,Implement runnable examples in the manual,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/8543,Support FILTER for GROUP_CONCAT,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/8962,Add DSL.constant() as an alias for DSL.inline(),Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/8453,"Replace confusing ""create"" reference by ""ctx"" in manual",Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/8611,Some MySQL encryption functions were removed in MySQL 8.0.x,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/8971,Translate tool can't parse the standard INTERVAL data types,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/9128,Add Settings.renderTableQualification to avoid qualifying columns if unnecessary,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/8599,Add an SPI to replace JPA annotations,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/8930,Fix known issues of PL/SQL BOOLEAN type in SQL emulation,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/8864,Oracle: Fix DSL#extract() for ISO_DAY_OF_WEEK,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/8679,Add ParseUnknownFunctions.WARN and INFO for use in Settings,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/8326,Document how to use jOOQ-checker with Java 8 - 11,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/8442,Fix sqlite timestamp default value issue & Add datetime datatype ,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/8844,Emulate FOR UPDATE SKIP LOCKED using READPAST table hint,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/8215,Improve manual and Javadoc to clarify how executeWithOptimisticLockingExcludeUnversioned and executeWithOptimisticLocking interact,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/8507,Add a parent pom.xml for all examples,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/8082,"Stop using the term ""database"" colloquially as database system in documentation",Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/8788,Check if ALTER INDEX ... RENAME can be supported by all SQL Server versions,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/8227,Missing Gradle examples for Spring Boot,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/7965,"Review manual for places to explain that in jOOQ, views = tables",Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/8272,Add support for Elastic SQL,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/8428,Add Table.aliased(Field<?>) and Table.unaliased(Field<?>),Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/8248,Add DSL.param(Name) overloads,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/7946,Add setting to escape square brackets in SQL Server LIKE predicates,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/7960,"Add Support for MySQL RENAME TABLE old_table TO tmp_table, new_table TO old_table, tmp_table TO new_table",Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/7588,Add SelectQuery.clear() and remove() methods to remove specific QueryParts again from the model API,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/7977,Add an SPI to generate names for unnamed QueryParts,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/7586,Add generationtool.bat and generationtool.sh files to run the standalone generator,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/7403,Add log message indicating the number of added/modified/unmodified/deleted files after generation,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/7057,Add a section about mutability to the manual,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/7552,INSERT .. ON DUPLICATE KEY { IGNORE | UPDATE } emulation should consider all UNIQUE keys on PostgreSQL,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/7582,Improve LoggerListener's debug log output for functions returning records,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/7262,Improve formatting of dual emulations,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/7489,Datetime arithmetic generates bind values when input uses inline values,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/7067,Specify jOOQ's lack of Serializable backwards compatibility in the manual,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/6578,Add a section to the manual talking about set based thinking,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/6490,Improve parser documentation to get a quick overview of vendor-specific SQL coverage,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/7328,Replace cursor-based FOR UPDATE emulation in SQL Server by table hints,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/7085,Add a Parser setting to govern whether known but unsupported statements should be ignored,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/6542,"Add some gifs to the README.md on Github, also for examples",Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/6724,Add plain SQL storage() clause to ALTER TABLE statements where applicable,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/6568,Improve <forcedType> configuration to match PostgreSQL array types,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/6871,Add Setting to throw an exception if DefaultRecordMapper cannot pick a non-ambiguous constructor,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/6526,Add advanced formatting options to Settings,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/5782,Document the java.sql vs java.time temporal type duality in the manual,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/5816,Collect undocumented API and add relevant sections to the manual,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/6263,MySQL requires prefix length for indexes on BLOB/TEXT,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/6695,Avoid copying Collection<? extends SelectField<?>> to List<Field<?>> if not needed,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/6259,Emulate MySQL / T-SQL DROP INDEX <unqualified index name> ON <qualified table name> for other databases,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/5678,Improve manual section about stored procedures: Show simpler examples first,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/5869,Add more examples to manual,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/5838,Add Query.bind(Param<?>) and Query.bind(Param<?>...) for convenience,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/6348,SQLPerformanceWarning should log some database metrics,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/6415,Add ResultOrRows.warning() and Settings.throwWarnings,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/5658,Add more explanation to the GitHub examples,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/5889,Log a DEBUG message if two <forcedType/> would have matched,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/5900,"Add ""view imports"" text to manual on hover icon",Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/6301,Add Settings to generate syntax highlighted SQL,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/6291,Emulate length of (VAR)BINARY columns through CHECK constraints in PostgreSQL,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/6023,"Make ""dual"" table configurable",Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/6003,Add missing DSL.values(Row...),Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/5691,Add a SQL Server example project to GitHub,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/5669,"Add a ""getting started"" section to the manual",Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/5422,ScalaGenerator should follow Scala Style Guide in generated code,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/5558,Collect code generation warnings and print them all in a consolidated form,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/5444,"Add Setting.renderIndexedBindVariables to generate indexed bind variables instead of ""anonymous"" ?",Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/5346,"Postgres errata: @> not used, documentation implies approach which produces invalid SQL",Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/5488,Excess newline in formatted SELECT without FROM clause,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/5218,Add support for FOR SHARE OF in Postgres dialect,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/5139,Add examples to the manual showing how to batch UPDATEs and DELETEs,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/4921,Add support for Maven archetype:generate to set up an example project,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/4528,Add documentation about connection handling with transactions,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/4401,Docs bug: Difference GeneratorStrategy & Strategy unclear,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/4684,Add subsection to the manual explaining the different kinds of JOIN,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/4760,"Add another VisitListener example to the manual, showing how to auto-alias all top-level SELECT fields",Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/4606,Add Table.rightSemiJoin() and Table.rightAntiJoin(),Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/4945,Add a jOOQ / Flyway migration example using programmatic migration scripts,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/4807,"Add BooleanBinding, a default implementation for common boolean type encodings in databases that don't have booleans",Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/4751,"Add Queries Schema.diff(Schema), Queries Table.diff(Table)",Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/4478,Write more specific Javadoc in the various ***Step interfaces,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/4734,Add Table.primaryKeyRow() to get a Row[N] reference to the Record's primary key,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/4605,Add Table.naturalSemiJoin() and naturalAntiJoin(),Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/4741,"Change SQLDialect.family() to match the earliest dialect version, not the latest",Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/4544,"Add utilities to convert from camelCase, PascalCase, under_score_lower, UNDER_SCORE_UPPER",Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/4448,Add a new debug setting that generates emulation comments in generated SQL,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/4060,Log all internal SQL transformations in TRACE / DEBUG log,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/4296,Add { Table | Field<?> ... } DSL.inline({ Table | Field<?> ... }) to create a QueryPart that inlines all of its bind values,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/4092,Add a section to the manual showing how to bind LOBs via org.jooq.Binding,Database
+https://github.com/jOOQ/jOOQ,/jOOQ/jOOQ/issues/4390,Add DSL.generateSeries for Datetime data types,Database
+https://github.com/querydsl/querydsl,/querydsl/querydsl/issues/2508,Introduce default builds,Database
+https://github.com/querydsl/querydsl,/querydsl/querydsl/issues/2488,JPA apt processor should depend on javax.persistence-api to work in gradle,Database
+https://github.com/querydsl/querydsl,/querydsl/querydsl/issues/2501,Add javax.annotations to JPA APT processor dependencies,Database
+https://github.com/querydsl/querydsl,/querydsl/querydsl/issues/2491,JPASQLQuery does not return entities,Database
+https://github.com/querydsl/querydsl,/querydsl/querydsl/issues/2380,support for incremental annotation processing in gradle 4.7+,Database
+https://github.com/querydsl/querydsl,/querydsl/querydsl/issues/2091,Documentation: Move querydsl-apt dependency to the build plugin,Database
+https://github.com/querydsl/querydsl,/querydsl/querydsl/issues/2081,JPAQueryFactory and JPAQuery,Database
+https://github.com/querydsl/querydsl,/querydsl/querydsl/issues/2215,Document API-based MongodbSerializer,Database
+https://github.com/querydsl/querydsl,/querydsl/querydsl/issues/1808,querydsl-sql-spring under gradle?,Database
+https://github.com/querydsl/querydsl,/querydsl/querydsl/issues/2060,Docs: Add examples with TemplateExpression ,Database
+https://github.com/querydsl/querydsl,/querydsl/querydsl/issues/1998,@Since API documentation on StringExpression?,Database
+https://github.com/querydsl/querydsl,/querydsl/querydsl/issues/1161,Document the use of non-interchangeable types,Database
+https://github.com/querydsl/querydsl,/querydsl/querydsl/issues/660,Documentation additions,Database
+https://github.com/querydsl/querydsl,/querydsl/querydsl/issues/511,"Update SQL ""Getting started"" guide",Database
+https://github.com/querydsl/querydsl,/querydsl/querydsl/issues/426,querydsl-sql documentation should reference general Maven plugin documentation,Database
+https://github.com/requery/requery,/requery/requery/issues/860,Document upsert support in H2,Database
+https://github.com/requery/requery,/requery/requery/issues/566,Missing escape character setter for LIKE operator,Database
+https://github.com/google/guice,/google/guice/issues/1238,Wiki: Dispatch Order is Not Explained Correctly,Dependency Injection
+https://github.com/google/guice,/google/guice/issues/1206,Documentation - Confusion with PrivateModule behavior,Dependency Injection
+https://github.com/google/guice,/google/guice/issues/1149,Update docs to reflect dropping support for Java 6,Dependency Injection
+https://github.com/google/guice,/google/guice/issues/1117,"The ""Transactions"" wiki page has dead image links",Dependency Injection
+https://github.com/google/guice,/google/guice/issues/1069,Documentation: clarify that there is no lifecycle support,Dependency Injection
+https://github.com/google/guice,/google/guice/issues/1066,Wiki: Transactions page missing images,Dependency Injection
+https://github.com/google/guice,/google/guice/issues/1034,TypeConverter<Character> in TypeConverterBindingProcessor should support injection of space,Dependency Injection
+https://github.com/google/guice,/google/guice/issues/947,Documentation of PersistService does not match its implementation,Dependency Injection
+https://github.com/google/guice,/google/guice/issues/949,Wrong class name in Motivation page in wiki,Dependency Injection
+https://github.com/google/guice,/google/guice/issues/374,Better documentation,Dependency Injection
+https://github.com/google/guice,/google/guice/issues/896,Add mycila and governator links to wiki,Dependency Injection
+https://github.com/java-diff-utils/java-diff-utils,/java-diff-utils/java-diff-utils/issues/52,"text/DiffRowGenerator customizing (custom algorithm, custom equalizer)",Diff
+https://github.com/testcontainers/testcontainers-java,/testcontainers/testcontainers-java/issues/2185,NetworkImpl.NetworkImplBuilder should not allow to reassign id(),Environment
+https://github.com/testcontainers/testcontainers-java,/testcontainers/testcontainers-java/issues/2134,"Mention `testcontainers-bom` in ""Maven dependencies"" section of the docs",Environment
+https://github.com/testcontainers/testcontainers-java,/testcontainers/testcontainers-java/issues/1824,Please move static analysis dependencies in compileOnly scope,Environment
+https://github.com/testcontainers/testcontainers-java,/testcontainers/testcontainers-java/issues/1802,"New JdbcDatabaseContainer#withUrlParam(String, String) method",Environment
+https://github.com/testcontainers/testcontainers-java,/testcontainers/testcontainers-java/issues/1537,Support hikari data-source-properties in ContainerDatabaseDriver,Environment
+https://github.com/testcontainers/testcontainers-java,/testcontainers/testcontainers-java/issues/1292,Oracle XE container doesn't wait till database is ready / wait-strategy ignored,Environment
+https://github.com/testcontainers/testcontainers-java,/testcontainers/testcontainers-java/issues/1399,"Is there anything I could do to fix the warning ""Failure when attempting to lookup auth config"" ?",Environment
+https://github.com/testcontainers/testcontainers-java,/testcontainers/testcontainers-java/issues/1167,Consolidate code snippets from the docs and `/examples` folder,Environment
+https://github.com/testcontainers/testcontainers-java,/testcontainers/testcontainers-java/issues/2166,"Add documentation on JUnit5 ""dependsOn""",Environment
+https://github.com/testcontainers/testcontainers-java,/testcontainers/testcontainers-java/issues/2045,TestcontainersExtension should be public to allow ordering extension in JUnit5,Environment
+https://github.com/testcontainers/testcontainers-java,/testcontainers/testcontainers-java/issues/1910,Improve documentation to include JNA configuration capabilities,Environment
+https://github.com/testcontainers/testcontainers-java,/testcontainers/testcontainers-java/issues/2167,Couchbase enable query ports  ,Environment
+https://github.com/testcontainers/testcontainers-java,/testcontainers/testcontainers-java/issues/2127,Improve usability of SQL init scripts with reusable containers,Environment
+https://github.com/testcontainers/testcontainers-java,/testcontainers/testcontainers-java/issues/554,"Add getMappedPort(Integer originalPort, InternetProtocol protocol)",Environment
+https://github.com/testcontainers/testcontainers-java,/testcontainers/testcontainers-java/issues/1160,New docs: minimal docs for modules that lack them,Environment
+https://github.com/testcontainers/testcontainers-java,/testcontainers/testcontainers-java/issues/1157,New docs: Startup strategy information/examples,Environment
+https://github.com/testcontainers/testcontainers-java,/testcontainers/testcontainers-java/issues/1164,New docs: document use of APIs for copying files to/from containers,Environment
+https://github.com/testcontainers/testcontainers-java,/testcontainers/testcontainers-java/issues/1156,New docs: Improve database container usage examples,Environment
+https://github.com/testcontainers/testcontainers-java,/testcontainers/testcontainers-java/issues/512,.flv videos generated by testcontainers webdriver aren't scrollable,Environment
+https://github.com/testcontainers/testcontainers-java,/testcontainers/testcontainers-java/issues/1415,Rendered JUnit 4 quickstart documentation page contains `inside_block`,Environment
+https://github.com/testcontainers/testcontainers-java,/testcontainers/testcontainers-java/issues/1162,New docs: Add quickstarts for JUnit 5 and Spock,Environment
+https://github.com/testcontainers/testcontainers-java,/testcontainers/testcontainers-java/issues/1158,New docs: Convert inline example code to use codeinclude macro,Environment
+https://github.com/testcontainers/testcontainers-java,/testcontainers/testcontainers-java/issues/1165,Refactor out references to Ambassador docker image,Environment
+https://github.com/testcontainers/testcontainers-java,/testcontainers/testcontainers-java/issues/465,Use of links between containers should be deprecated,Environment
+https://github.com/testcontainers/testcontainers-java,/testcontainers/testcontainers-java/issues/302,GenericContainer tries to talk to remote registry too soon (during instance initialization),Environment
+https://github.com/aerokube/selenoid,/aerokube/selenoid/issues/786,Update docs/code to reflect W3C capability extension format,Environment
+https://github.com/aerokube/selenoid-ui,/aerokube/selenoid-ui/issues/273,Adopt gitpod,Environment
+https://github.com/aerokube/selenoid-ui,/aerokube/selenoid-ui/issues/160,Add Remove Container button to the view with VNC,Environment
+https://github.com/aerokube/moon,/aerokube/moon/issues/159,Add documentation about video proxy container,Environment
+https://github.com/aerokube/moon,/aerokube/moon/issues/136,Document /status API,Environment
+https://github.com/aerokube/moon,/aerokube/moon/issues/74,Fix logs new lines in UI,Environment
+https://github.com/aerokube/moon,/aerokube/moon/issues/34,Add /suggest API,Environment
+https://github.com/aerokube/moon,/aerokube/moon/issues/159,Add documentation about video proxy container,Environment
+https://github.com/aerokube/moon,/aerokube/moon/issues/136,Document /status API,Environment
+https://github.com/aerokube/moon,/aerokube/moon/issues/74,Fix logs new lines in UI,Environment
+https://github.com/aerokube/moon,/aerokube/moon/issues/34,Add /suggest API,Environment
+https://github.com/aerokube/moon,/aerokube/moon/issues/159,Add documentation about video proxy container,Environment
+https://github.com/aerokube/moon,/aerokube/moon/issues/136,Document /status API,Environment
+https://github.com/aerokube/moon,/aerokube/moon/issues/74,Fix logs new lines in UI,Environment
+https://github.com/aerokube/moon,/aerokube/moon/issues/34,Add /suggest API,Environment
+https://github.com/searchbox-io/Jest,/searchbox-io/Jest/issues/640,Updated doc for version 6,ElasticSearch
+https://github.com/searchbox-io/Jest,/searchbox-io/Jest/issues/617,jestclient update document,ElasticSearch
+https://github.com/searchbox-io/Jest,/searchbox-io/Jest/issues/354,Special Character Credentials,ElasticSearch
+https://github.com/google/jimfs,/google/jimfs/issues/67,JimFS doesn't handle file locks in documented way (OverlappingFileLockException),File System
+https://github.com/google/jimfs,/google/jimfs/issues/61,[WARNING] javadoc: warning - Error fetching URL: jsr305,File System
+https://github.com/google/jimfs,/google/jimfs/issues/54,Use mocks to provide MappedByteBuffers.,File System
+https://github.com/square/okio,/square/okio/issues/529,Behaviour of Bytestring.utf8() with bytes that aren't valid UTF-8,I/O
+https://github.com/square/okio,/square/okio/issues/416,Buffer.skip silently ignores negative values,I/O
+https://github.com/square/okio,/square/okio/issues/589,Make commonXXX functions inline.,I/O
+https://github.com/square/okio,/square/okio/issues/186,Recipe for tee,I/O
+https://github.com/yandex-qatools/ashot,/pazone/ashot/issues/144,Modal over a scrollable page not getting captured correctly,Image Based Testing
+https://github.com/facebook/screenshot-tests-for-android,/facebook/screenshot-tests-for-android/issues/232,Use Gradle's lazy task API,Image Based Testing
+https://github.com/romankh3/image-comparison,/romankh3/image-comparison/issues/132,[FEATURE] Add logging to the project,Image Based Testing
+https://github.com/romankh3/image-comparison,/romankh3/image-comparison/issues/145,[IMPROVEMENT] update tests to JUnit5,Image Based Testing
+https://github.com/skyscreamer/JSONassert,/skyscreamer/JSONassert/issues/74,wording (typo in quickstart.html),JSON
+https://github.com/lukas-krecan/JsonUnit,/lukas-krecan/JsonUnit/issues/192,Docs: Example of using inPath and whenIgnoringPaths with Hamcrest-style matchers,JSON
+https://github.com/lukas-krecan/JsonUnit,/lukas-krecan/JsonUnit/issues/137,Create Migration instructions,JSON
+https://github.com/square/moshi,/square/moshi/issues/1003,Readme incorrectly says Rfc3339DateJsonAdapter isn't null-safe,JSON
+https://github.com/square/moshi,/square/moshi/issues/822,Add docs on how to use Moshi with annotations but moshi reflect for IDE builds,JSON
+https://github.com/square/moshi,/square/moshi/issues/742,How to fallback to kotlin reflect in debug?,JSON
+https://github.com/square/moshi,/square/moshi/issues/620,Document allowed @FromJson and @ToJson method signatures.,JSON
+https://github.com/square/moshi,/square/moshi/issues/573,Better error message or docs for hidden Kotlin wildcards.,JSON
+https://github.com/square/moshi,/square/moshi/issues/484,"Documentation for toJson(JsonWriter, T)",JSON
+https://github.com/square/moshi,/square/moshi/issues/454,Moshi-kotlin doesn't respect @field:Json annotations in JUnit tests,JSON
+https://github.com/square/moshi,/square/moshi/issues/345,Moshi-kotlin does not work with proguard,JSON
+https://github.com/iluwatar/java-design-patterns,/iluwatar/java-design-patterns/issues/1099,Template Method,HowTo
+https://github.com/iluwatar/java-design-patterns,/iluwatar/java-design-patterns/issues/525,Attach tutorial links to patterns,HowTo
+https://github.com/arun-gupta/docker-java,/arun-gupta/docker-java/issues/131,Update document showing how to join swarm after leaving ,HowTo
+https://github.com/arun-gupta/docker-java,/arun-gupta/docker-java/issues/136,Docker Swarm instructions,HowTo
+https://github.com/arun-gupta/docker-java,/arun-gupta/docker-java/issues/137,Missing --swarm and Windows use of '\' in its path ,HowTo
+https://github.com/arun-gupta/docker-java,/arun-gupta/docker-java/issues/125,Wildfire running on swarm-master,HowTo
+https://github.com/arun-gupta/docker-java,/arun-gupta/docker-java/issues/117,Make a blogpost about Docker for Windows,HowTo
+https://github.com/jhy/jsoup,/jhy/jsoup/issues/1131,"""Creeper tracker code""-tag in a document leaves head tag empty",HTML
+https://github.com/jhy/jsoup,/jhy/jsoup/issues/1090,Tags missing in JSoup doc,HTML
+https://github.com/jhy/jsoup,/jhy/jsoup/issues/1097,Should org.jsoup.nodes.Document.toString() produce a valid XML file?,HTML
+https://github.com/jhy/jsoup,/jhy/jsoup/issues/1093,INVALID_CHARACTER_ERR when converting Document to W3C (different page),HTML
+https://github.com/jhy/jsoup,/jhy/jsoup/issues/1098,invalid XML file produced after org.jsoup.nodes.Document to org.w3c.dom.Document conversion,HTML
+https://github.com/OpenFeign/feign,/OpenFeign/feign/issues/1131,Read-me.md   mybe wrong ?,HTTP
+https://github.com/OpenFeign/feign,/OpenFeign/feign/issues/1036,$ not support in the name of query parameters,HTTP
+https://github.com/OpenFeign/feign,/OpenFeign/feign/issues/920,FeignException contains request- or response-body,HTTP
+https://github.com/OpenFeign/feign,/OpenFeign/feign/issues/934,The default client with URLConnection doesn't work with gzipped response,HTTP
+https://github.com/OpenFeign/feign,/OpenFeign/feign/issues/932,feign.httpclient.ApacheHttpClient should not setEntity when request body is null in order to support application/x-www-form-urlencode,HTTP
+https://github.com/OpenFeign/feign,/OpenFeign/feign/issues/929,Clarify difference between Target<T> and RequestInterceptor in docs regarding header injection,HTTP
+https://github.com/OpenFeign/feign,/OpenFeign/feign/issues/907,Support for specifying custom criteria for error,HTTP
+https://github.com/OpenFeign/feign,/OpenFeign/feign/issues/852,@QueryMap does not work with POJOs when used after @Param,HTTP
+https://github.com/OpenFeign/feign,/OpenFeign/feign/issues/851,Should default implementations of QueryMapEncoder accept null parms?,HTTP
+https://github.com/OpenFeign/feign,/OpenFeign/feign/issues/850,How can I explain team feign is good choice for REST client?,HTTP
+https://github.com/OpenFeign/feign,/OpenFeign/feign/issues/781,OkHttp connect and read timeouts overwritten by feign,HTTP
+https://github.com/OpenFeign/feign,/OpenFeign/feign/issues/772,Update Java Doc,HTTP
+https://github.com/OpenFeign/feign,/OpenFeign/feign/issues/774,OpenFeign Compatibility with Android SDK <24,HTTP
+https://github.com/OpenFeign/feign,/OpenFeign/feign/issues/773,openfeign.github.io does not exist,HTTP
+https://github.com/OpenFeign/feign,/OpenFeign/feign/issues/728,Unsatisfying 302 handling,HTTP
+https://github.com/OpenFeign/feign,/OpenFeign/feign/issues/681,Using fallbackfactory with feignclient with selected method implementation,HTTP
+https://github.com/OpenFeign/feign,/OpenFeign/feign/issues/1048,"More details (URL, method, body preview) in FeignClient(Server)Exception message",HTTP
+https://github.com/OpenFeign/feign,/OpenFeign/feign/issues/427,NPE is thrown when LoadBalancer returns null server,HTTP
+https://github.com/OpenFeign/feign,/OpenFeign/feign/issues/430,How Feign Retryer should working when combining with Ribbon,HTTP
+https://github.com/OpenFeign/feign,/OpenFeign/feign/issues/275,Better exception handling,HTTP
+https://github.com/OpenFeign/feign,/OpenFeign/feign/issues/249,Allow for 3xx range headers,HTTP
+https://github.com/OpenFeign/feign,/OpenFeign/feign/issues/32,Getting started guide,HTTP
+https://github.com/square/okhttp,/square/okhttp/issues/4637,Wiki page all about caching,HTTP
+https://github.com/square/okhttp,/square/okhttp/issues/4370,Unnecessary call to KeyManagerFactory.init in CustomTrust recipe,HTTP
+https://github.com/square/okhttp,/square/okhttp/issues/4354,ConnectionPool cleanup is eager and results in unnecessary connection churn and (potentially) port exhaustion,HTTP
+https://github.com/square/okhttp,/square/okhttp/issues/4273,Document HttpLoggingInterceptor buffers content,HTTP
+https://github.com/square/okhttp,/square/okhttp/issues/5380,Fix MockWebserver to use Platform for SSL Context etc,HTTP
+https://github.com/square/okhttp,/square/okhttp/issues/4655,Update cipher suites for February 2020,HTTP
+https://github.com/square/okhttp,/square/okhttp/issues/3773,Feature Request: Configuration parameter `followSslRedirects` is misleading its real purpose and should be renamed,HTTP
+https://github.com/square/okhttp,/square/okhttp/issues/3471,Docs should explain benefits of pinning both CA and host certificates,HTTP
+https://github.com/square/okhttp,/square/okhttp/issues/2890,Provide our own CookieJar implementation,HTTP
+https://github.com/square/okhttp,/square/okhttp/issues/1471,Recipe: upload & download progress,HTTP
+https://github.com/square/retrofit,/square/retrofit/issues/3263,Documentation request for coroutines and Retrofit,HTTP
+https://github.com/square/retrofit,/square/retrofit/issues/2954,duplicate class when using recommended protobuf-lite,HTTP
+https://github.com/square/retrofit,/square/retrofit/issues/2950,Question: Do I need to close ResponseBody?,HTTP
+https://github.com/square/retrofit,/square/retrofit/issues/2929,Retrofit 2 Close ErrorResponse Body,HTTP
+https://github.com/square/retrofit,/square/retrofit/issues/2898,Support For Matrix Param In Retrofit,HTTP
+https://github.com/square/retrofit,/square/retrofit/issues/2452,Make it clearer in the doc the difference between using a relative and an absolute path,HTTP
+https://github.com/square/retrofit,/square/retrofit/issues/2302,Response from 202 code in to JSON,HTTP
+https://github.com/square/retrofit,/square/retrofit/issues/2064,Adapters are not documented well ,HTTP
+https://github.com/square/retrofit,/square/retrofit/issues/2021,Provide Call delegate sample,HTTP
+https://github.com/square/retrofit,/square/retrofit/issues/1413,Documentation for MockRetrofit,HTTP
+https://github.com/square/retrofit,/square/retrofit/issues/1305,No documentation for custom Converter,HTTP
+https://github.com/square/retrofit,/square/retrofit/issues/1213,How to perform cascade queries?,HTTP
+https://github.com/google/auto,/google/auto/issues/571,Warn when an abstract type doesn't include a package-private constructor?,Language extensions
+https://github.com/google/auto,/google/auto/issues/307,Document AutoFactory parameters in README,Language extensions
+https://github.com/google/auto,/google/auto/issues/305,auto-service maven configuration doc is using the compile scope,Language extensions
+https://github.com/google/auto,/google/auto/issues/284,Publish JavaDoc online,Language extensions
+https://github.com/jOOQ/jOOL,/jOOQ/jOOL/issues/344,Tuple.collectors() should be able to share state,Language extensions
+https://github.com/jOOQ/jOOL,/jOOQ/jOOL/issues/334,Add release notes,Language extensions
+https://github.com/jOOQ/jOOL,/jOOQ/jOOL/issues/298,Document Java 9 new CompletableFuture features in Async,Language extensions
+https://github.com/jOOQ/jOOL,/jOOQ/jOOL/issues/195,Seq.shuffle() (and others) should delay buffering until a terminal op requests the stream values,Language extensions
+https://github.com/rzwitserloot/lombok,/rzwitserloot/lombok/issues/2263,[BUG] Generated methods are not considered in javadoc task,Language extensions
+https://github.com/rzwitserloot/lombok,/rzwitserloot/lombok/issues/2265,[FEATURE] JavaDoc generation,Language extensions
+https://github.com/rzwitserloot/lombok,/rzwitserloot/lombok/issues/2219,"[BUG] Start feature description with overview, not changelog",Language extensions
+https://github.com/rzwitserloot/lombok,/rzwitserloot/lombok/issues/1990,Documentation for @FieldNameConstants is showing wrong configuration name,Language extensions
+https://github.com/rzwitserloot/lombok,/rzwitserloot/lombok/issues/1734,Update Gradle install documentation for 4.7+ according to new annotationProcessor configuration,Language extensions
+https://github.com/rzwitserloot/lombok,/rzwitserloot/lombok/issues/1520,delombok: generated Javadoc for getters and setters should be put on @param and @return,Language extensions
+https://github.com/rzwitserloot/lombok,/rzwitserloot/lombok/issues/1455,@Delegate's page should note that methods generated by it are not displayed in IDEs' outline,Language extensions
+https://github.com/rzwitserloot/lombok,/rzwitserloot/lombok/issues/1602,Deprecated Gradle features were used in this build,Language extensions
+https://github.com/rzwitserloot/lombok,/rzwitserloot/lombok/issues/1352,"Documentation needed: Jacoco can now exclude methods annotated by ""lombok/Generated"" from report",Language extensions
+https://github.com/rzwitserloot/lombok,/rzwitserloot/lombok/issues/1498,@Tolerate should work with @Singular,Language extensions
+https://github.com/rzwitserloot/lombok,/rzwitserloot/lombok/issues/1378,"Version mentioned on ""Show me a text and images based explanation and tutorial instead!""",Language extensions
+https://github.com/rzwitserloot/lombok,/rzwitserloot/lombok/issues/1460,Make @Singular create mutable collections,Language extensions
+https://github.com/rzwitserloot/lombok,/rzwitserloot/lombok/issues/1215,@UtilityClass - Value of compile-time constant fields not displayed in doc tooltip in Netbeans,Language extensions
+https://github.com/rzwitserloot/lombok,/rzwitserloot/lombok/issues/1025,"Document minimum requirements (JDK, JRE versions)",Language extensions
+https://github.com/rzwitserloot/lombok,/rzwitserloot/lombok/issues/1041,Preserve leading whitespace on comments,Language extensions
+https://github.com/rzwitserloot/lombok,/rzwitserloot/lombok/issues/1028,Remove vertical pepper in the background,Language extensions
+https://github.com/rzwitserloot/lombok,/rzwitserloot/lombok/issues/933,Javadoc for @XArgsConstructor,Language extensions
+https://github.com/rzwitserloot/lombok,/rzwitserloot/lombok/issues/903,Lombok in enums used as static imported constants: import order matters,Language extensions
+https://github.com/amaembo/streamex,/amaembo/streamex/issues/39,Add short-circuiting reducing() collector,Language extensions
+https://github.com/vavr-io/vavr,/vavr-io/vavr/issues/2339,Explain Gradle + Vavr custom pattern ($Patterns/$Unapply),Language extensions
+https://github.com/vavr-io/vavr,/vavr-io/vavr/issues/2308,[Epic] Align Vavr 1.0 collections to the completely re-designed Scala 2.13 collections,Language extensions
+https://github.com/vavr-io/vavr,/vavr-io/vavr/issues/1648,[public visibility] Make our GitHub homepage a better appetizer,Language extensions
+https://github.com/vavr-io/vavr,/vavr-io/vavr/issues/2041,Make equality checks configurable for Hash based collections,Language extensions
+https://github.com/vavr-io/vavr,/vavr-io/vavr/issues/1342,Adjust return types of sorted collection methods that return a (wrapped) self type,Language extensions
+https://github.com/inferred/FreeBuilder,/inferred/FreeBuilder/issues/327,Unchecked warnings in code generated for GWT-serializable generic types,Language extensions
+https://github.com/inferred/FreeBuilder,/inferred/FreeBuilder/issues/238,Documentation should mention lombok,Language extensions
+https://github.com/inferred/FreeBuilder,/inferred/FreeBuilder/issues/292,Add element replace method for collections,Language extensions
+https://github.com/radarsh/gradle-test-logger-plugin,/radarsh/gradle-test-logger-plugin/issues/137,Kotlin DSL,Logging
+https://github.com/radarsh/gradle-test-logger-plugin,/radarsh/gradle-test-logger-plugin/issues/136,Document TestLoggerExtension class,Logging
+https://github.com/optimaize/language-detector,/optimaize/language-detector/issues/76,Use java.util.Optional?,Localisation
+https://github.com/optimaize/language-detector,/optimaize/language-detector/issues/35,Port the cybozu command line utils,Localisation
+https://github.com/languagetool-org/languagetool,/languagetool-org/languagetool/issues/2001,quote within spaces,Localisation
+https://github.com/languagetool-org/languagetool,/languagetool-org/languagetool/issues/1483,False positive in DATUM_ZUKUNFT_VERB_VERGANGENHEIT [14] ,Localisation
+https://github.com/appium/appium,/appium/appium/issues/13747,add viewmatcher selector to clients,Mobile
+https://github.com/appium/appium,/appium/appium/issues/13568,[clients] Add event command,Mobile
+https://github.com/appium/appium,/appium/appium/issues/12913,Matrix about appium versions/supported os versions,Mobile
+https://github.com/appium/appium,/appium/appium/issues/13468,How to set to True the setWebContentsDebuggingEnabled property on the android.webkit.WebView element? ,Mobile
+https://github.com/appium/appium,/appium/appium/issues/13610,building WebDriverAgent is asking for a .xctrunner bundle ID,Mobile
+https://github.com/appium/appium,/appium/appium/issues/13502,Keep the original APK when it is signed with non-default certificate,Mobile
+https://github.com/appium/appium,/appium/appium/issues/13213,Documentation Issues,Mobile
+https://github.com/appium/appium,/appium/appium/issues/12782,[Feature Request][Documentation] Add a page to display tools built around appium,Mobile
+https://github.com/appium/appium,/appium/appium/issues/12568,Wrong brownserName needs to be processed for appium server node + selenium grid hub,Mobile
+https://github.com/appium/appium,/appium/appium/issues/12478,Disable automatic translation on website,Mobile
+https://github.com/appium/appium,/appium/appium/issues/12424,Internationalize Appium.io,Mobile
+https://github.com/appium/appium,/appium/appium/issues/12076,touchPerform actions processed separately: could not do swipe.,Mobile
+https://github.com/appium/appium,/appium/appium/issues/11325,Document geolocation features,Mobile
+https://github.com/appium/appium,/appium/appium/issues/11573,Document gestures using W3C Actions API,Mobile
+https://github.com/appium/appium,/appium/appium/issues/11250,Mjpeg stuff needs documentation,Mobile
+https://github.com/appium/appium,/appium/appium/issues/12919,Flutter support for Appium,Mobile
+https://github.com/appium/appium,/appium/appium/issues/12202,deviceName should be used on Android,Mobile
+https://github.com/appium/appium,/appium/appium/issues/9427,[UiAutomator 2][Request] Document ranking the speed of different lookup methods,Mobile
+https://github.com/appium/appium,/appium/appium/issues/9376,Capability remoteAdbHost should be renamed to adbHost,Mobile
+https://github.com/appium/appium,/appium/appium/issues/7474,dearchitect: appium-doctor,Mobile
+https://github.com/appium/appium,/appium/appium/issues/7384,"Allow custom sigalg, digestalg",Mobile
+https://github.com/appium/appium,/appium/appium/issues/7402,"Checkboxes on Hybrid Apps have large, invalid X values",Mobile
+https://github.com/appium/appium,/appium/appium/issues/6718,Support delete File,Mobile
+https://github.com/appium/appium-espresso-driver,/appium/appium-espresso-driver/issues/480,Fix GSON default value in Kotlin,Mobile
+https://github.com/appium/appium-espresso-driver,/appium/appium-espresso-driver/issues/345,Write a UiAutomator2 to Espresso migration guide,Mobile
+https://github.com/appium/appium-espresso-driver,/appium/appium-espresso-driver/issues/409,Source document generation throws exception,Mobile
+https://github.com/android/android-test,/android/android-test/issues/366,Design doc for test runner plugin mechanism,Mobile
+https://github.com/android/android-test,/android/android-test/issues/207,AndroidXTestOrchestrator name confusion,Mobile
+https://github.com/android/android-test,/android/android-test/issues/163,Emit maven artifact names in class documentation,Mobile
+https://github.com/android/android-test,/android/android-test/issues/398,[Espresso-Flutter] Add API and test cases for supporting multiple FlutterViews,Mobile
+https://github.com/android/android-test,/android/android-test/issues/28,Broken link,Mobile
+https://github.com/googlesamples/android-testing,/android/testing-samples/issues/140,Wrong Codelab documentation in 2. Prerequisites,Mobile
+https://github.com/SchibstedSpain/Barista,/AdevintaSpain/Barista/issues/298,Feature Request: add clickAny<>() support similar to assertAny<>(),Mobile
+https://github.com/SchibstedSpain/Barista,/AdevintaSpain/Barista/issues/216,Add feature to click spans inside a TextView,Mobile
+https://github.com/SchibstedSpain/Barista,/AdevintaSpain/Barista/issues/203,Missing a way to verify/click on AutoCompleteTextView suggestions,Mobile
+https://github.com/SchibstedSpain/Barista,/AdevintaSpain/Barista/issues/152,assertDisplayed(MainActivity.class),Mobile
+https://github.com/SchibstedSpain/Barista,/AdevintaSpain/Barista/issues/9,Assert that a view is transparent: alpha=0,Mobile
+https://github.com/shazam/fork,/shazam/fork/issues/149,Add test logs in HTML report ,Mobile
+https://github.com/shazam/fork,/shazam/fork/issues/115,Update documentation of Flakiness Reporter,Mobile
+https://github.com/square/leakcanary,/square/leakcanary/issues/1356,Flatten known data structures when computing group SHAs,Mobile
+https://github.com/micrometer-metrics/micrometer,/micrometer-metrics/micrometer/issues/1629,Elastic metrics: The 7.3 have changed the meaning for _source enabled false,Monitoring
+https://github.com/micrometer-metrics/micrometer,/micrometer-metrics/micrometer/issues/1326,Make document type configurable in ElasticMeterRegistry,Monitoring
+https://github.com/micrometer-metrics/micrometer,/micrometer-metrics/micrometer/issues/1680,ExecutorServiceMetrics should add the type of executor as a tag,Monitoring
+https://github.com/micrometer-metrics/micrometer,/micrometer-metrics/micrometer/issues/1739,Improve test coverage and JavaDocs for Step* metrics,Monitoring
+https://github.com/micrometer-metrics/micrometer,/micrometer-metrics/micrometer/issues/1604,Initialize metrics to zero at start up,Monitoring
+https://github.com/micrometer-metrics/micrometer,/micrometer-metrics/micrometer/issues/1512,Datadog Registry implementation does not honor commonTags for WebFlux metrics,Monitoring
+https://github.com/micrometer-metrics/micrometer,/micrometer-metrics/micrometer/issues/1713,Counters not idempotent / state & lifecycle unclear,Monitoring
+https://github.com/micrometer-metrics/micrometer,/micrometer-metrics/micrometer/issues/1678,Initialize `jvm.gc.max.data.size` to correct value before any GC events,Monitoring
+https://github.com/micrometer-metrics/micrometer,/micrometer-metrics/micrometer/issues/1396,Log cloudwatch metric data when unable to send to cloudwatch,Monitoring
+https://github.com/micrometer-metrics/micrometer,/micrometer-metrics/micrometer/issues/1274,Improve system metrics with oshi,Monitoring
+https://github.com/micrometer-metrics/micrometer,/micrometer-metrics/micrometer/issues/549,Add disk space binder,Monitoring
+https://github.com/greenmail-mail-test/greenmail,/greenmail-mail-test/greenmail/issues/284,Update embedded default certificate,Mail
+https://github.com/greenmail-mail-test/greenmail,/greenmail-mail-test/greenmail/issues/260,greenmail.auth.disabled doesn't work as expected,Mail
+https://github.com/greenmail-mail-test/greenmail,/greenmail-mail-test/greenmail/issues/215,Sonar link in README is invalid,Mail
+https://github.com/easymock/easymock,/easymock/easymock/issues/185,Support for @TestSubject to do constructor injection,Mocks
+https://github.com/mockito/mockito,/mockito/mockito/issues/1838,Improve the error message on contains method,Mocks
+https://github.com/mockito/mockito,/mockito/mockito/issues/1651,Shipping Mockito Javadocs,Mocks
+https://github.com/mockito/mockito,/mockito/mockito/issues/1249,Investigation public API Mockito,Mocks
+https://github.com/mockito/mockito,/mockito/mockito/issues/1225,Ensure auto-replacement of deprecated methods in IntelliJ,Mocks
+https://github.com/mockito/mockito,/mockito/mockito/issues/1571,Misleading error message in the reporter regarding misuse of additional matchers,Mocks
+https://github.com/mockito/mockito,/mockito/mockito/issues/958,Document migration path of 'any()' matcher in Javadocs,Mocks
+https://github.com/mockito/mockito,/mockito/mockito/issues/930,Update contributing guidelines,Mocks
+https://github.com/mockito/mockito,/mockito/mockito/issues/940,Defender (default) methods are under documented,Mocks
+https://github.com/mockito/mockito,/mockito/mockito/issues/1359,Update Gradle files to Kotlin,Mocks
+https://github.com/mockito/mockito,/mockito/mockito/issues/1291,"Example for matcher-based mocking should show, not merely state, that non-matched arguments must use matchers.",Mocks
+https://github.com/mockito/mockito,/mockito/mockito/issues/713,Link to Brice voxxed article from documentation,Mocks
+https://github.com/mockito/mockito,/mockito/mockito/issues/545,Ensure thread safety of mockito is documented in Javadoc,Mocks
+https://github.com/mockito/mockito,/mockito/mockito/issues/531,Promote MockitoRule as preferred way to initialize annotated fields in the docs,Mocks
+https://github.com/mockito/mockito,/mockito/mockito/issues/320,Mockito keeps references to disposed class loaders in the ,Mocks
+https://github.com/mockito/mockito,/mockito/mockito/issues/725,Mockito should report mismatched argument warnings when using mocks in unconfigured ways,Mocks
+https://github.com/mockito/mockito,/mockito/mockito/issues/687,"Add mockito, bytebuddy, objenesis version to Platform (maybe git commit to)",Mocks
+https://github.com/powermock/powermock,/powermock/powermock/issues/1019,Documentation not correct for running powermock with mockito1,Mocks
+https://github.com/powermock/powermock,/powermock/powermock/issues/989,PowerMock wiki global ignore incorrect example,Mocks
+https://github.com/powermock/powermock,/powermock/powermock/issues/986,"""MockStatic"" wiki article incorrect link",Mocks
+https://github.com/powermock/powermock,/powermock/powermock/issues/776,"Android, PowerMock: javassist.NotFoundException:",Mocks
+https://github.com/powermock/powermock,/powermock/powermock/issues/779,IllegalStateException: Failed to transform class with name backend.model.posting.PostingTest. Reason: before ()V in backend.model.posting.PostingTest: inconsistent stack height -1,Mocks
+https://github.com/powermock/powermock,/powermock/powermock/issues/914,Incorrect documentation about PowerMockRule class usage,Mocks
+https://github.com/powermock/powermock,/powermock/powermock/issues/927,Port Log4jMockPolicy to Mockito2,Mocks
+https://github.com/powermock/powermock,/powermock/powermock/issues/660,"Custom runner delegate, ""Notifications are not supported when all test-instances are created first""",Mocks
+https://github.com/powermock/powermock,/powermock/powermock/issues/396,ExpectedException.expectMessage AssertionError lost with PowerMockRunner,Mocks
+https://github.com/powermock/powermock,/powermock/powermock/issues/116,Add support for mock aliases,Mocks
+https://github.com/powermock/powermock,/powermock/powermock/issues/628,Add page about mocking enum to wiki,Mocks
+https://github.com/powermock/powermock,/powermock/powermock/issues/482,JavaDoc of org.powermock.api.mockito.PowerMockito.verifyNew(Class<T>) is a little incomplete/unprecise,Mocks
+https://github.com/powermock/powermock,/powermock/powermock/issues/135,Update description on the front page,Mocks
+https://github.com/powermock/powermock,/powermock/powermock/issues/354,Update Wiki examples,Mocks
+https://github.com/perwendel/spark,/perwendel/spark/issues/1142,Example on books on README.md (front page of github) has bugs,Mocks for HTTP
+https://github.com/perwendel/spark,/perwendel/spark/issues/1021,Documentation lacks information/examples on setting Jetty request size,Mocks for HTTP
+https://github.com/perwendel/spark,/perwendel/spark/issues/903,Add more information methods like port() to get server parameters,Mocks for HTTP
+https://github.com/tomakehurst/wiremock,/tomakehurst/wiremock/issues/1138,"incomplete documentation for ""Pushing JSON files to a remote WireMock instance""",Mocks for HTTP
+https://github.com/tomakehurst/wiremock,/tomakehurst/wiremock/issues/1078,API docs on custom helpers has a typo,Mocks for HTTP
+https://github.com/tomakehurst/wiremock,/tomakehurst/wiremock/issues/1126,"DEBUG level logs for verbose mode, log request details before calling reponse renderer",Mocks for HTTP
+https://github.com/tomakehurst/wiremock,/tomakehurst/wiremock/issues/1041,Docs don't specify how to configure proxying with catch-all stub from the cmd line,Mocks for HTTP
+https://github.com/tomakehurst/wiremock,/tomakehurst/wiremock/issues/904,Docs for running standalone with extensions are circular,Mocks for HTTP
