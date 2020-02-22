@@ -1,4 +1,4 @@
-Issue-link, Issue-Title
+Issue-link, Issue-Title,Type of Libraries
 https://github.com/TNG/ArchUnit/issues/182,Allow `@AnalyzeClasses` to be used as a meta annotation,Architecture
 https://github.com/moditect/deptective,/moditect/deptective/issues/37,Colorizes nodes of dependency visualization based on number of ingoing references,Architecture
 https://github.com/joel-costigliola/assertj-core,/joel-costigliola/assertj-core/issues/1355,Describe actual Throwables when ThrowableAssert fails,Assertions
