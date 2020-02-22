@@ -117,7 +117,7 @@ https://github.com/spotbugs/spotbugs,/spotbugs/spotbugs/issues/540,Document how 
 https://github.com/spotbugs/spotbugs,/spotbugs/spotbugs/issues/522,Supported annotations are not documented?,Code Quality
 https://github.com/spotbugs/spotbugs,/spotbugs/spotbugs/issues/511,Adhering to EQ_DOESNT_OVERRIDE_EQUALS requires violation of equals method contract,Code Quality
 https://github.com/spotbugs/spotbugs,/spotbugs/spotbugs/issues/993,Obsolete warning: ITA_INEFFICIENT_TO_ARRAY,Code Quality
-https://github.com/spotbugs/spotbugs,/spothttps://github.com/google/styleguide,/google/styleguide/issues/486,Java Style Guide - Camel case examples,Code Quality
+https://github.com/google/styleguide,/google/styleguide/issues/486,Java Style Guide - Camel case examples,Code Quality
 https://github.com/google/styleguide,/google/styleguide/issues/469,Intellij Java doc styling no longer works.,Code Quality
 https://github.com/google/styleguide,/google/styleguide/issues/412,Java: 4.1.2 example: Missing opening brace in else if,Code Quality
 https://github.com/google/styleguide,/google/styleguide/issues/391,JSON Style Guide top-level property 'data',Code Quality
